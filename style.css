@@ -52,3 +52,11 @@ div{
     color: #fff;
     background-color: black;
   }
+
+
+@media only screen and (max-width: 600px) {
+    .sec {
+        padding: 40px 10px; /* Adjust padding for smaller screens */
+        font-size: 18px; /* Adjust font size for smaller screens */
+    }
+}
